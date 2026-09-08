@@ -1,0 +1,4 @@
+$ git branch -vv
+* bug-fix-revert de03646 Merge branch 'main' of https://github.com/roman-iliushkin/mcino-Introduction-to-Git-and-GitHub
+  bug-fix-typo   0abda2a [origin/bug-fix-typo] Fix typo in README
+  main           de03646 [origin/main: ahead 2] Merge branch 'main' of https://github.com/roman-iliushkin/mcino-Introduction-to-Git-and-GitHub
